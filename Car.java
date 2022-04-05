@@ -1,12 +1,4 @@
-/**
-Name: Joseph Roesch
-Date: 4/21/2019
-Course/Section: IT206.003
-Assignment 8
-Description:
 
-
-*/
 public class Car extends Rec{
    private double miles;
    private String cars[];
