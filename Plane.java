@@ -1,12 +1,4 @@
-/**
-Name: Joseph Roesch
-Date: 4/21/2019
-Course/Section: IT206.003
-Assignment 8
-Description:
 
-
-*/
 public class Plane extends Rec{
    public static final double MIN_COST = 79;
    public static final double MAX_COST = 419;
