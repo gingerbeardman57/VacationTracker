@@ -1,8 +1,5 @@
 /**
-Name: Joseph Roesch
-Date: 4/21/2019
-Course/Section: IT206.003
-Assignment 8
+
 Description:
 The vacation tracker program will allow a user to input up to 13 car or plane objects with necessary information. It will
 also print all recommendations, print budget recommendations, print extravagent recommendations, and when exiting, print
